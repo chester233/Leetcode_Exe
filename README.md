@@ -4,5 +4,5 @@ Day 1(26/Nov):
 771. Jewels and Stones(easy)  
 1108. Defanging an IP Address(easy)   
 Day 2:  
-1221. Split a String in Balanced Strings
+1221. Split a String in Balanced Strings(easy)
 
