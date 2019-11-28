@@ -5,4 +5,7 @@ Day 1(26/Nov):
 1108. Defanging an IP Address(easy)   
 Day 2:  
 1221. Split a String in Balanced Strings(easy)
-
+Day 3:  
+938. Range Sum of BST(easy)   
+1119. Remove Vowels from a String(easy)   
+709. To Lower Case(easy)  
