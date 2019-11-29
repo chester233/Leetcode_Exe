@@ -9,3 +9,5 @@ Day 3:
 938. Range Sum of BST(easy)   
 1119. Remove Vowels from a String(easy)   
 709. To Lower Case(easy)  
+1134. Armstrong Number(easy)  
+349. Intersection of Two Arrays(easy)   
