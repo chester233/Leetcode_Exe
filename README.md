@@ -11,3 +11,5 @@ Day 3:
 709. To Lower Case(easy)  
 1134. Armstrong Number(easy)  
 349. Intersection of Two Arrays(easy)   
+Day 4:  
+1021. Remove Outermost Parentheses(easy)  
