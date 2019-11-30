@@ -13,3 +13,4 @@ Day 3:
 349. Intersection of Two Arrays(easy)   
 Day 4:  
 1021. Remove Outermost Parentheses(easy)  
+700. Search in a Binary Search Tree(easy)   
