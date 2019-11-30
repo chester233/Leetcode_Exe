@@ -15,3 +15,4 @@ Day 4:
 1021. Remove Outermost Parentheses(easy)  
 700. Search in a Binary Search Tree(easy)   
 942. DI String Match(easy)  
+905. Sort Array By Parity(easy)   
