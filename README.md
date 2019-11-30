@@ -16,3 +16,4 @@ Day 4:
 700. Search in a Binary Search Tree(easy)   
 942. DI String Match(easy)  
 905. Sort Array By Parity(easy)   
+977. Squares of a Sorted Array(easy)  
