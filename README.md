@@ -21,3 +21,5 @@ Day 5:
 1064. Fixed Point(easy)   
 561. Array Partition I(easy)   
 509. Fibonacci Number(easy)   
+Day 6:    
+929. Unique Email Addresses(easy)   
