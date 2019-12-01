@@ -17,3 +17,7 @@ Day 4:
 942. DI String Match(easy)  
 905. Sort Array By Parity(easy)   
 977. Squares of a Sorted Array(easy)  
+Day 5:
+1064. Fixed Point(easy)   
+561. Array Partition I(easy)   
+509. Fibonacci Number(easy)   
