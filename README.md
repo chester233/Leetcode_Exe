@@ -27,3 +27,4 @@ Day 6:
 657. Robot Return to Origin(easy)   
 Day 7:  
 852. Peak Index in a Mountain Array(easy)   
+728. Self Dividing Numbers(easy)  
