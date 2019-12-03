@@ -33,3 +33,4 @@ Day 7:
 231. Power of Two(easy)   
 326. Power of Three(easy)   
 342. Power of Four(easy)  
+1118. Number of Days in a Month(easy)   
