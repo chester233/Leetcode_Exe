@@ -30,3 +30,4 @@ Day 7:
 728. Self Dividing Numbers(easy)  
 461. Hamming Distance(easy)   
 191. Number of 1 Bits(easy)   
+231. Power of Two(easy)   
