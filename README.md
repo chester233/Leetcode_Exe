@@ -29,3 +29,4 @@ Day 7:
 852. Peak Index in a Mountain Array(easy)   
 728. Self Dividing Numbers(easy)  
 461. Hamming Distance(easy)   
+191. Number of 1 Bits(easy)   
