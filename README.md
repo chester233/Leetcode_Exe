@@ -31,3 +31,5 @@ Day 7:
 461. Hamming Distance(easy)   
 191. Number of 1 Bits(easy)   
 231. Power of Two(easy)   
+326. Power of Three(easy)   
+342. Power of Four(easy)  
