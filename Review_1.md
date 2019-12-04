@@ -1,32 +1,32 @@
-771. Jewels and Stones(easy):2 for loops,there is method with better O(n),come back to this one later.     
+1. 771. Jewels and Stones(easy):2 for loops,there is method with better O(n),come back to this one later.     
     
-1108. Defanging an IP Address(easy):function replac(easy)e(a,b).   
+2. 1108. Defanging an IP Address(easy):function replac(easy)e(a,b).   
     
-1221. Split a String in Balanced Strings(easy):R:i++,L:i--,see if i equals to 0.
+3. 1221. Split a String in Balanced Strings(easy):R:i++,L:i--,see if i equals to 0.
     
-938. Range Sum of BST(easy):TreeNode,compare .val with left and right.
+4. 938. Range Sum of BST(easy):TreeNode,compare .val with left and right.
     
-1119. Remove Vowels from a String(easy):if not in 'aeiou'.
+5. 1119. Remove Vowels from a String(easy):if not in 'aeiou'.
     
-709. To Lower Case(easy):use ASCII value.
+6. 709. To Lower Case(easy):use ASCII value.
     
-1134. Armstrong Number(easy):turn int to str.
+7. 1134. Armstrong Number(easy):turn int to str.
     
-349. Intersection of Two Arrays(easy):2 loops,come back to it for better solution.
+8. 349. Intersection of Two Arrays(easy):2 loops,come back to it for better solution.
     
-1021. Remove Outermost Parentheses(easy):similar to 1121.Note the stride in the loop.
+9. 1021. Remove Outermost Parentheses(easy):similar to 1121.Note the stride in the loop.
     
-700. Search in a Binary Search Tree(easy):
+10. 700. Search in a Binary Search Tree(easy):
     
-942. DI String Match(easy):similar to 1121.Note the details in the loop. 
+11 942. DI String Match(easy):similar to 1121.Note the details in the loop. 
     
-905. Sort Array By Parity(easy):function sort(key=lambda x:x%2).
+12 905. Sort Array By Parity(easy):function sort(key=lambda x:x%2).
     
-977. Squares of a Sorted Array(easy):fuction sort() and i**2.
+13 977. Squares of a Sorted Array(easy):fuction sort() and i**2.
     
-1064. Fixed Point(easy):function enumerate(),use index and value.
+14 1064. Fixed Point(easy):function enumerate(),use index and value.
     
-561. Array Partition I(easy):function sort() and range(start,end,stride).
+15 561. Array Partition I(easy):function sort() and range(start,end,stride).
     
 509. Fibonacci Number(easy):recursion or iteration.
     
