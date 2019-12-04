@@ -44,9 +44,9 @@
     
 191. Number of 1 Bits(easy):
     
-231. Power of Two(easy):
+231. Power of Two(easy):turn int to bin,power-of-two number has only an '1'.
     
-326. Power of Three(easy):
+326. Power of Three(easy):keep /3,power-of-three number %3 == 0.Note the case 3**0.
     
 342. Power of Four(easy):
     
