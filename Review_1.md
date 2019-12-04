@@ -12,7 +12,7 @@
     
 1134. Armstrong Number(easy):turn int to str.
     
-349. Intersection of Two Arrays(easy):
+349. Intersection of Two Arrays(easy):2 loops,come back to it for better solution.
     
 1021. Remove Outermost Parentheses(easy):similar to 1121.Note the stride in the loop.
     
@@ -30,19 +30,19 @@
     
 509. Fibonacci Number(easy):recursion or iteration.
     
-929. Unique Email Addresses(easy):function split() and index()
+929. Unique Email Addresses(easy):function split() and index().
     
 922. Sort Array By Parity II(easy):
     
 657. Robot Return to Origin(easy):similar to 1121.
     
-852. Peak Index in a Mountain Array(easy):
+852. Peak Index in a Mountain Array(easy):linear scan when A[i]>A[i+1]
     
 728. Self Dividing Numbers(easy):
     
 461. Hamming Distance(easy):function count().Wikipedia:"For binary strings a and b the Hamming distance is equal to the number of ones (population count) in a XOR b."
     
-191. Number of 1 Bits(easy):
+191. Number of 1 Bits(easy):function bin() and count().
     
 231. Power of Two(easy):turn int to bin,power-of-two number has only an '1'.
     
