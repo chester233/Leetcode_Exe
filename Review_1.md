@@ -1,6 +1,6 @@
- 771. Jewels and Stones(easy):2 for loops,there is method with better O(n),come back to this one later.     
+771. Jewels and Stones(easy):2 for loops,there is method with better O(n),come back to this one later.     
     
- 1108. Defanging an IP Address(easy):function replac(easy)e(a,b).   
+1108. Defanging an IP Address(easy):function replac(easy)e(a,b).   
     
 1221. Split a String in Balanced Strings(easy):R:i++,L:i--,see if i equals to 0.
     
@@ -46,8 +46,8 @@
     
 231. Power of Two(easy):turn int to bin,power-of-two number has only an '1'.
     
-326. Power of Three(easy):keep /3,power-of-three number %3 == 0.Note the case 3**0.
+326. Power of Three(easy):keep /3,power-of-three number finally == 1.Note the case 3**0.
     
-342. Power of Four(easy):
+342. Power of Four(easy):similar to 326.
     
-1118. Number of Days in a Month(easy):
+1118. Number of Days in a Month(easy):A leap year(Y):either (Y%400==0) or (Y%4==0 and Y%100!=0). 
