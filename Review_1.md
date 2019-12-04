@@ -18,13 +18,13 @@
     
 700. Search in a Binary Search Tree(easy):
     
-942. DI String Match(easy):
+942. DI String Match(easy):similar to 1121.Note the details in the loop. 
     
-905. Sort Array By Parity(easy):
+905. Sort Array By Parity(easy):function sort(key=lambda x:x%2).
     
-977. Squares of a Sorted Array(easy):
+977. Squares of a Sorted Array(easy):fuction sort() and i**2.
     
-1064. Fixed Point(easy):
+1064. Fixed Point(easy):function enumerate(),use index and value.
     
 561. Array Partition I(easy):function sort() and range(start,end,stride).
     
