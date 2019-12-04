@@ -1,8 +1,8 @@
-1. 771. Jewels and Stones(easy):2 for loops,there is method with better O(n),come back to this one later.     
+1. 771 Jewels and Stones(easy):2 for loops,there is method with better O(n),come back to this one later.     
     
-2. 1108. Defanging an IP Address(easy):function replac(easy)e(a,b).   
+2. 1108 Defanging an IP Address(easy):function replac(easy)e(a,b).   
     
-3. 1221. Split a String in Balanced Strings(easy):R:i++,L:i--,see if i equals to 0.
+3. 1221 Split a String in Balanced Strings(easy):R:i++,L:i--,see if i equals to 0.
     
 4. 938. Range Sum of BST(easy):TreeNode,compare .val with left and right.
     
