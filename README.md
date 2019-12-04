@@ -1,5 +1,6 @@
 # My_leetcode_exe    
-Final way to push myself.Starting from 26/Nov/2019.    
+Starting from 26/Nov/2019.    
+    
 Week 1   
 Day 1(26/Nov):  
 771. Jewels and Stones(easy)  
@@ -35,6 +36,7 @@ Day 7:
 326. Power of Three(easy)   
 342. Power of Four(easy)  
 1118. Number of Days in a Month(easy)   
+    
 Week 2    
 Day 8:  
 412. Fizz Buzz(easy)   
