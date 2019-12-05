@@ -41,3 +41,4 @@ Week 2
 Day 8:  
 412. Fizz Buzz(easy)   
 1137. N-th Tribonacci Number(easy)    
+693. Binary Number with Alternating Bits(easy)  
