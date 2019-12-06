@@ -43,3 +43,6 @@ Day 8:
 1137. N-th Tribonacci Number(easy)    
 693. Binary Number with Alternating Bits(easy)  
 Day 9:  
+1232. Check If It Is a Straight Line(easy)  
+Day 10:     
+344. Reverse String(easy)   
