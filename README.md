@@ -46,3 +46,4 @@ Day 9:
 1232. Check If It Is a Straight Line(easy)  
 Day 10:     
 344. Reverse String(easy)   
+345. Reverse Vowels of a String(easy)   
