@@ -47,3 +47,5 @@ Day 9:
 Day 10:     
 344. Reverse String(easy)   
 345. Reverse Vowels of a String(easy)   
+Day 11:     
+1154. Day of the Year(easy)     
