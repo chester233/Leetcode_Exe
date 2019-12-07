@@ -51,3 +51,4 @@ Day 11:
 1154. Day of the Year(easy)     
 520. Detect Capital(easy)   
 682. Baseball Game(easy)    
+1196. How Many Apples Can You Put into the Basket(easy)     
