@@ -52,3 +52,5 @@ Day 11:
 520. Detect Capital(easy)   
 682. Baseball Game(easy)    
 1196. How Many Apples Can You Put into the Basket(easy)     
+1266. Minimum Time Visiting All Points(easy)    
+941. Valid Mountain Array(easy)     
