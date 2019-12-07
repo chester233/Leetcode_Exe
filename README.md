@@ -49,3 +49,5 @@ Day 10:
 345. Reverse Vowels of a String(easy)   
 Day 11:     
 1154. Day of the Year(easy)     
+520. Detect Capital(easy)   
+682. Baseball Game(easy)    
