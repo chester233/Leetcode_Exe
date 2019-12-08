@@ -54,5 +54,5 @@ Day 11:
 1196. How Many Apples Can You Put into the Basket(easy)     
 1266. Minimum Time Visiting All Points(easy)    
 941. Valid Mountain Array(easy)     
-Day 12: 
+Day 12:     
 1189. Maximum Number of Balloons(easy)  
