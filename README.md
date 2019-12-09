@@ -59,3 +59,6 @@ Day 12:
 1047. Remove All Adjacent Duplicates In String(easy)    
 760. Find Anagram Mappings(easy)    
 832. Flipping an Image(easy)    
+804. Unique Morse Code Words(easy)     
+Day 13:     
+1281. Subtract the Product and Sum of Digits of an Integer(easy)    
