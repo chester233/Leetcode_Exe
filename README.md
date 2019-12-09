@@ -57,3 +57,5 @@ Day 11:
 Day 12:     
 1189. Maximum Number of Balloons(easy)  
 1047. Remove All Adjacent Duplicates In String(easy)    
+760. Find Anagram Mappings(easy)    
+832. Flipping an Image(easy)    
