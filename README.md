@@ -65,3 +65,5 @@ Day 13:
 1133. Largest Unique Number(easy)   
 500. Keyboard Row(easy)     
 1213. Intersection of Three Sorted Arrays(easy)     
+136. Single Number(easy)    
+Day 14:     
