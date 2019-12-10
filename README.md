@@ -64,3 +64,4 @@ Day 13:
 1281. Subtract the Product and Sum of Digits of an Integer(easy)    
 1133. Largest Unique Number(easy)   
 500. Keyboard Row(easy)     
+1213. Intersection of Three Sorted Arrays(easy)     
