@@ -67,3 +67,7 @@ Day 13:
 1213. Intersection of Three Sorted Arrays(easy)     
 136. Single Number(easy)    
 Day 14:     
+961. N-Repeated Element in Size 2N Array(easy)  
+    
+Week 3  
+Day 15:     
