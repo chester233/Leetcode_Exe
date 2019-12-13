@@ -1,16 +1,16 @@
-28. 412 Fizz Buzz(easy):    
+28. 412 Fizz Buzz(easy): if %3==0, if %5==0, if %15==0.    
   
-29. 1137 N-th Tribonacci Number(easy):
+29. 1137 N-th Tribonacci Number(easy): replace x with y, replace y with z, replace z with x+y+z.
   
-30. 693 Binary Number with Alternating Bits(easy):
+30. 693 Binary Number with Alternating Bits(easy): check whether 00 or 11 is in binary number.   
   
-31. 1232 Check If It Is a Straight Line(easy):
+31. 1232 Check If It Is a Straight Line(easy): Calculate the slope.  
   
-32. 344 Reverse String(easy):
+32. 344 Reverse String(easy): Use two pointers to swap the values of left and right until they are equal.   
   
-33. 345 Reverse Vowels of a String(easy):
+33. 345 Reverse Vowels of a String(easy): similar to 344.   
   
-34. 1154 Day of the Year(easy):
+34. 1154 Day of the Year(easy): 
   
 35. 520 Detect Capital(easy):  
     
