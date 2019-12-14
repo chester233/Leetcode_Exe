@@ -10,13 +10,13 @@
   
 33. 345 Reverse Vowels of a String(easy): similar to 344.   
   
-34. 1154 Day of the Year(easy): 
+34. 1154 Day of the Year(easy): Sum up the days before the input month and days in that very month. Note to check leap year.  
   
-35. 520 Detect Capital(easy):  
+35. 520 Detect Capital(easy): Use ASCII value.  
     
-36. 682 Baseball Game(easy):
+36. 682 Baseball Game(easy): Use a stcak.   
   
-37. 1196 How Many Apples Can You Put into the Basket(easy):
+37. 1196 How Many Apples Can You Put into the Basket(easy): Sort the array, sum from the fisrt one until it > weight. 
   
 38. 1266 Minimum Time Visiting All Points(easy):
   
