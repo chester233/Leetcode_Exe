@@ -72,4 +72,6 @@ Day 14:
 Week 3  
 Day 15: None     
 Day 16: None    
-Day 17:944. Delete Columns to Make Sorted(easy)     
+Day 17:     
+944. Delete Columns to Make Sorted(easy)     
+Day 18:     
