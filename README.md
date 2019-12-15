@@ -76,3 +76,7 @@ Day 17:
 944. Delete Columns to Make Sorted(easy)     
 Day 18:     
 884. Uncommon Words from Two Sentences(easy)    
+Day 19:None     
+Day 20:     
+806. Number of Lines To Write String(easy)      
+1287. Element Appearing More Than 25% In Sorted Array(easy)     
