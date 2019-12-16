@@ -80,3 +80,6 @@ Day 19:None
 Day 20:     
 806. Number of Lines To Write String(easy)      
 1287. Element Appearing More Than 25% In Sorted Array(easy)     
+Day 21:     
+1099. Two Sum Less Than K(easy)     
+1184. Distance Between Bus Stops(easy)      
