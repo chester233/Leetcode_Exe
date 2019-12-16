@@ -83,3 +83,5 @@ Day 20:
 Day 21:     
 1099. Two Sum Less Than K(easy)     
 1184. Distance Between Bus Stops(easy)      
+1271. Hexspeak(easy)    
+1025. Divisor Game(easy)    
