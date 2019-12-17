@@ -85,3 +85,7 @@ Day 21:
 1184. Distance Between Bus Stops(easy)      
 1271. Hexspeak(easy)    
 1025. Divisor Game(easy)    
+
+Week 4      
+Day 22:     
+1150. Check If a Number Is Majority Element in a Sorted Array(easy)     
