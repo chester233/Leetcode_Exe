@@ -43,3 +43,19 @@
 49. 136 Single Number(easy):
   
 50. 961 N-Repeated Element in Size 2N Array(easy):
+    
+51. 944 Delete Columns to Make Sorted(easy):    
+    
+52. 884 Uncommon Words from Two Sentences(easy):    
+    
+53. 806 Number of Lines To Write String(easy):    
+    
+54. 1287 Element Appearing More Than 25% In Sorted Array(easy):   
+    
+55. 1099 Two Sum Less Than K(easy):   
+    
+56. 1184 Distance Between Bus Stops(easy):    
+    
+57. 1271 Hexspeak(easy):    
+    
+58. 1025 Divisor Game(easy):    
