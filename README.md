@@ -96,3 +96,4 @@ Day 25:
 Day 26:     
 1207. Unique Number of Occurrences(easy)    
 1200. Minimum Absolute Difference(easy)     
+Day 27:     
