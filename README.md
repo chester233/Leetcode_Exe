@@ -95,3 +95,4 @@ Day 25:
 1051. Height Checker(easy)          
 Day 26:     
 1207. Unique Number of Occurrences(easy)    
+1200. Minimum Absolute Difference(easy)     
