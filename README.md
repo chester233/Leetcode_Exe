@@ -91,7 +91,7 @@ Day 22:
 1150. Check If a Number Is Majority Element in a Sorted Array(easy)     
 Day 23: None     
 Day 24: None     
-Day 25:
-1051. Height Checker(easy)      
+Day 25:     
+1051. Height Checker(easy)          
 Day 26:     
 1207. Unique Number of Occurrences(easy)    
