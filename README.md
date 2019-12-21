@@ -98,3 +98,4 @@ Day 26:
 1200. Minimum Absolute Difference(easy)     
 Day 27:     
 1217. Play with Chips(easy)     
+1056. Confusing Number(easy)    
