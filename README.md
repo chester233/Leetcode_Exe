@@ -99,3 +99,5 @@ Day 26:
 Day 27:     
 1217. Play with Chips(easy)     
 1056. Confusing Number(easy)    
+1085. Sum of Digits in the Minimum Number(easy)     
+Day 28:     
