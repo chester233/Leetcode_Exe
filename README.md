@@ -101,8 +101,9 @@ Day 27:
 1056. Confusing Number(easy)    
 1085. Sum of Digits in the Minimum Number(easy)     
 Day 28:     
-5291. Find Numbers with Even Number of Digits(easy)     
+1295. Find Numbers with Even Number of Digits(easy)     
     
 Week 5      
 Day 29:     
 1165. Single-Row Keyboard(easy)     
+1078. Occurrences After Bigram(easy)    
