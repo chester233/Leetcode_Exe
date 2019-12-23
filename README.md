@@ -102,3 +102,7 @@ Day 27:
 1085. Sum of Digits in the Minimum Number(easy)     
 Day 28:     
 5291. Find Numbers with Even Number of Digits(easy)     
+    
+Week 5      
+Day 29:     
+1165. Single-Row Keyboard(easy)     
