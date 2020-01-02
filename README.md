@@ -106,5 +106,10 @@ Day 28:
 Week 5      
 Day 29:     
 1165. Single-Row Keyboard(easy)     
-1078. Occurrences After Bigram(easy)    
-Day 30: None    
+1078. Occurrences After Bigram(easy)       
+Day 30-35: None     
+    
+Week 6      
+Day 36-37: None    
+Day 38:     
+933. Number of Recent Calls(easy)   
