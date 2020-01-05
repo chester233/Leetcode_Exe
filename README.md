@@ -118,3 +118,6 @@ Dat 39:
 1304. Find N Unique Integers Sum up to Zero(easy)   
 Day 40:     
 1185. Day of the Week(easy)     
+Day 41:    
+1089. Duplicate Zeros(easy)     
+Day 42:     
