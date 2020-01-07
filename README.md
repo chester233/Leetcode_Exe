@@ -122,3 +122,7 @@ Day 41:
 1089. Duplicate Zeros(easy)     
 Day 42:     
 1228. Missing Number In Arithmetic Progression(easy)    
+    
+Week 7      
+Day 43: None    
+Day 44:
