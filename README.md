@@ -125,4 +125,6 @@ Day 42:
     
 Week 7      
 Day 43: None    
-Day 44:
+Day 44:     
+1005. Maximize Sum Of Array After K Negations(easy)      
+1018. Binary Prefix Divisible By 5(easy)    
