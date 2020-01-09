@@ -128,6 +128,6 @@ Day 43: None
 Day 44:     
 1005. Maximize Sum Of Array After K Negations(easy)      
 1018. Binary Prefix Divisible By 5(easy)    
-Day 45:
+Day 45:     
 1037. Valid Boomerang(easy)     
 1013. Partition Array Into Three Parts With Equal Sum(easy)     
