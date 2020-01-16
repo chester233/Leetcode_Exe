@@ -140,3 +140,4 @@ Day 48-49: None
 Week 8      
 Day 50-51: None     
 Day 52:     
+896. Monotonic Array(easy)      
