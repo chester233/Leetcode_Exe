@@ -135,3 +135,8 @@ Day 46:
 1046. Last Stone Weight(easy)   
 Day 47:     
 917. Reverse Only Letter(easy)      
+Day 48-49: None     
+    
+Week 8      
+Day 50-51: None     
+Day 52:     
