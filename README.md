@@ -141,3 +141,7 @@ Week 8
 Day 50-51: None     
 Day 52:     
 896. Monotonic Array(easy)      
+Day 53: None    
+Day 54:     
+1065. Index Pairs of a String(easy)     
+999. Available Captures for Rook(easy)      
