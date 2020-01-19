@@ -145,3 +145,6 @@ Day 53: None
 Day 54:     
 1065. Index Pairs of a String(easy)     
 999. Available Captures for Rook(easy)      
+Day 55:     
+976. Largest Perimeter Triangle(easy)   
+985. Sum of Even Numbers After Queries(easy)    
