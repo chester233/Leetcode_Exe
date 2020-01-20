@@ -1,5 +1,5 @@
 # My_leetcode_exe    
-Starting from 26/Nov/2019.    
+Starting from Nov/26/2019.    
     
 Week 1   
 Day 1(26/Nov):  
@@ -149,4 +149,9 @@ Day 55:
 976. Largest Perimeter Triangle(easy)   
 985. Sum of Even Numbers After Queries(easy)    
 989. Add to Array-Form of Integer(easy)     
+Day 56:     
+796. Rotate String(easy)    
 
+    
+Week 9      
+Day 57:     
