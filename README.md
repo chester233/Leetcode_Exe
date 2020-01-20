@@ -151,7 +151,7 @@ Day 55:
 989. Add to Array-Form of Integer(easy)     
 Day 56:     
 796. Rotate String(easy)    
-
+788. Rotated Digits(easy)   
     
 Week 9      
 Day 57:     
