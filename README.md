@@ -152,6 +152,7 @@ Day 55:
 Day 56:     
 796. Rotate String(easy)    
 788. Rotated Digits(easy)   
+766. Toeplitz Matrix(easy)   
     
 Week 9      
 Day 57:     
