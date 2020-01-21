@@ -156,3 +156,4 @@ Day 56:
     
 Week 9      
 Day 57:     
+824. Goat Latin(easy)    
