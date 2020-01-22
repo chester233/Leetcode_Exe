@@ -159,3 +159,4 @@ Day 57:
 824. Goat Latin(easy)    
 Day 58:     
 733. Flood Fill(easy)    
+744. Find Smallest Letter Greater Than Target(easy)     
