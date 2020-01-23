@@ -163,3 +163,4 @@ Day 58:
 747. Largest Number At Least Twice of Others(easy)      
 Day 59:     
 844. Backspace String Compare(easy)     
+812. Largest Triangle Area(easy)    
