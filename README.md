@@ -164,3 +164,5 @@ Day 58:
 Day 59:     
 844. Backspace String Compare(easy)     
 812. Largest Triangle Area(easy)    
+Day 60:     
+724. Find Pivot Index(easy)     
