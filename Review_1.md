@@ -113,3 +113,87 @@
 57. 1271 Hexspeak(easy):    
     
 58. 1025 Divisor Game(easy):    
+    
+59. 1150 Check If a Number Is Majority Element in a Sorted Array(easy)
+
+60. 1051 Height Checker(easy)
+
+61. 1207 Unique Number of Occurrences(easy)
+
+62. 1200 Minimum Absolute Difference(easy)
+
+63. 1217 Play with Chips(easy)
+
+64. 1056 Confusing Number(easy)
+
+65. 1085 Sum of Digits in the Minimum Number(easy)
+
+66. 1295 Find Numbers with Even Number of Digits(easy)
+
+67. 1165 Single-Row Keyboard(easy)
+
+68. 1078 Occurrences After Bigram(easy)
+
+69. 933 Number of Recent Calls(easy)
+
+70. 1290 Convert Binary Number in a Linked List to Integer(easy)
+
+71. 1304 Find N Unique Integers Sum up to Zero(easy)
+
+72. 1185 Day of the Week(easy)
+
+73. 1089 Duplicate Zeros(easy)
+
+74. 1228 Missing Number In Arithmetic Progression(easy)
+
+75. 1005 Maximize Sum Of Array After K Negations(easy)
+
+76. 1018 Binary Prefix Divisible By 5(easy)
+
+77. 1037 Valid Boomerang(easy)
+
+78. 1013 Partition Array Into Three Parts With Equal Sum(easy)
+
+79. 1046 Last Stone Weight(easy)
+
+80. 917 Reverse Only Letter(easy)
+
+81. 896 Monotonic Array(easy)
+
+82. 1065 Index Pairs of a String(easy)
+
+83. 999 Available Captures for Rook(easy)
+
+84. 976 Largest Perimeter Triangle(easy)
+
+85. 985 Sum of Even Numbers After Queries(easy)
+
+86. 989 Add to Array-Form of Integer(easy)
+
+87. 796 Rotate String(easy)
+
+88. 788 Rotated Digits(easy)
+
+89. 766 Toeplitz Matrix(easy)
+
+90. 824 Goat Latin(easy)
+
+91. 733 Flood Fill(easy)
+
+92. 744 Find Smallest Letter Greater Than Target(easy)
+
+93. 747 Largest Number At Least Twice of Others(easy)
+
+94. 844 Backspace String Compare(easy)
+
+95. 812 Largest Triangle Area(easy)
+
+96. 724 Find Pivot Index(easy)
+
+97. 867 Transpose Matrix(easy)
+
+98. 836 Rectangle Overlap(easy)
+
+99. 557 Reverse Words in a String III(easy)
+
+100. 860 Lemonade Change(easy)
