@@ -166,3 +166,5 @@ Day 59:
 812. Largest Triangle Area(easy)    
 Day 60:     
 724. Find Pivot Index(easy)     
+867. Transpose Matrix(easy)     
+836. Rectangle Overlap(easy)    
