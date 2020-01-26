@@ -174,3 +174,4 @@ Day 61:
 704. Binary Search(easy)    
 Day 62:     
 908. Smallest Range I(easy)     
+551. Student Attendance Record I(easy)      
