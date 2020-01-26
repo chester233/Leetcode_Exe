@@ -113,7 +113,7 @@ Week 6
 Day 36-37: None    
 Day 38:     
 933. Number of Recent Calls(easy)   
-Dat 39:     
+Day 39:     
 1290. Convert Binary Number in a Linked List to Integer(easy)   
 1304. Find N Unique Integers Sum up to Zero(easy)   
 Day 40:     
@@ -172,3 +172,5 @@ Day 60:
 Day 61:    
 860. Lemonade Change(easy)    
 704. Binary Search(easy)    
+Day 62:     
+908. Smallest Range I(easy)     
