@@ -171,3 +171,4 @@ Day 60:
 557. Reverse Words in a String III(easy)    
 Day 61:    
 860. Lemonade Change(easy)    
+704. Binary Search(easy)    
