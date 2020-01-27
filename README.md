@@ -175,3 +175,5 @@ Day 61:
 Day 62:     
 908. Smallest Range I(easy)     
 551. Student Attendance Record I(easy)      
+Day 63:     
+1323. Maximum 69 Number(easy)    
