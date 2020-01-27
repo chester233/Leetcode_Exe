@@ -177,3 +177,4 @@ Day 62:
 551. Student Attendance Record I(easy)      
 Day 63:     
 1323. Maximum 69 Number(easy)    
+970. Powerful Integers(easy)    
