@@ -178,3 +178,5 @@ Day 62:
 Day 63:     
 1323. Maximum 69 Number(easy)    
 970. Powerful Integers(easy)    
+    
+Week 10:    
