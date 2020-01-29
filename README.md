@@ -180,3 +180,6 @@ Day 63:
 970. Powerful Integers(easy)    
     
 Week 10:    
+Day 64: None    
+Day 65:     
+868. Binary Gap(easy)   
