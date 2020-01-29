@@ -183,3 +183,4 @@ Week 10:
 Day 64: None    
 Day 65:     
 868. Binary Gap(easy)   
+821. Shortest Distance to a Character(easy)     
