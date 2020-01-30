@@ -184,3 +184,5 @@ Day 64: None
 Day 65:     
 868. Binary Gap(easy)   
 821. Shortest Distance to a Character(easy)     
+Day 66:   
+892. Surface Area of 3D Shapes(easy)    
