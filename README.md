@@ -187,3 +187,5 @@ Day 65:
 Day 66:   
 892. Surface Area of 3D Shapes(easy)    
 762. Prime Number of Set Bits in Binary Representation(easy)    
+Day 67:     
+883. Projection Area of 3D Shapes(easy)     
