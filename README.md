@@ -189,3 +189,4 @@ Day 66:
 762. Prime Number of Set Bits in Binary Representation(easy)    
 Day 67:     
 883. Projection Area of 3D Shapes(easy)     
+1071. Greatest Common Divisor of Strings(easy)      
