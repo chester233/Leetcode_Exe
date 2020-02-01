@@ -190,3 +190,5 @@ Day 66:
 Day 67:     
 883. Projection Area of 3D Shapes(easy)     
 1071. Greatest Common Divisor of Strings(easy)      
+Day 68:     
+1103. Distribute Candies to People(easy)    
