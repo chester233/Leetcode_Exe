@@ -193,3 +193,4 @@ Day 67:
 Day 68:     
 1103. Distribute Candies to People(easy)    
 1260. Shift 2D Grid(easy)   
+1252. Cells with Odd Values in a Matrix(easy)    
