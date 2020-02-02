@@ -197,3 +197,4 @@ Day 68:
 1122. Relative Sort Array(easy)     
 Day 69:     
 1175. Prime Arrangements(easy)      
+1237. Find Positive Integer Solution for a Given Equation(easy)     
