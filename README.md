@@ -207,3 +207,5 @@ Day 71:
 1009. Complement of Base 10 Integer(easy)     
 Day 72:     
 1160. Find Words That Can Be Formed by Characters(easy)     
+Day 73:     
+1243. Array Transformation(easy)    
