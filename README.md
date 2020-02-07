@@ -209,3 +209,5 @@ Day 72:
 1160. Find Words That Can Be Formed by Characters(easy)     
 Day 73:     
 1243. Array Transformation(easy)    
+Day 74:     
+925. Long Pressed Name(easy)    
