@@ -211,3 +211,5 @@ Day 73:
 1243. Array Transformation(easy)    
 Day 74:     
 925. Long Pressed Name(easy)    
+Day 75:     
+993. Cousins in Binary Tree(easy)   
