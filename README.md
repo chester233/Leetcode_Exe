@@ -215,3 +215,5 @@ Day 75:
 993. Cousins in Binary Tree(easy)   
 893. Groups of Special-Equivalent Strings(easy)     
 888. Fair Candy Swap(easy)      
+Day 76:     
+965. Univalued Binary Tree(easy)    
