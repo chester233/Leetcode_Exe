@@ -217,3 +217,4 @@ Day 75:
 888. Fair Candy Swap(easy)      
 Day 76:     
 965. Univalued Binary Tree(easy)    
+1086. High Five(easy)       
