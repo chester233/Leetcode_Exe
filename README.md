@@ -221,3 +221,4 @@ Day 76:
 Day 77:     
 949. Largest Time for Given Digits(easy)    
 1030. Matrix Cells in Distance Order(easy)      
+953. Verifying an Alien Dictionary(easy)    
