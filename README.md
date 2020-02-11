@@ -218,3 +218,5 @@ Day 75:
 Day 76:     
 965. Univalued Binary Tree(easy)    
 1086. High Five(easy)       
+Day 77:     
+949. Largest Time for Given Digits(easy)    
