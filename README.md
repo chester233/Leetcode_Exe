@@ -179,7 +179,7 @@ Day 63:
 1323. Maximum 69 Number(easy)    
 970. Powerful Integers(easy)    
     
-Week 10:    
+Week 10    
 Day 64: None    
 Day 65:     
 868. Binary Gap(easy)   
@@ -201,7 +201,7 @@ Day 69:
 1002. Find Common Characters(easy)      
 Day 70: None    
     
-Week 11:    
+Week 11    
 Day 71:     
 937. Reorder Data in Log Files(easy)    
 1009. Complement of Base 10 Integer(easy)     
@@ -222,3 +222,7 @@ Day 77:
 949. Largest Time for Given Digits(easy)    
 1030. Matrix Cells in Distance Order(easy)      
 953. Verifying an Alien Dictionary(easy)    
+    
+Week 12     
+Day 78:     
+997. Find the Town Judge(easy)      
