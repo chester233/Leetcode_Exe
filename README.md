@@ -226,3 +226,4 @@ Day 77:
 Week 12     
 Day 78:     
 997. Find the Town Judge(easy)      
+1033. Moving Stones Until Consecutive(easy)     
