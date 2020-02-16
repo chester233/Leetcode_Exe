@@ -229,3 +229,6 @@ Day 78:
 1033. Moving Stones Until Consecutive(easy)     
 Day 79:     
 1022. Sum of Root To Leaf Binary Numbers(easy)      
+Day 80-82: None     
+Day 83:     
+Day 84:    
