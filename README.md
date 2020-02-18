@@ -233,3 +233,7 @@ Day 80-83: None
 Day 84:    
 914. X of a Kind in a Deck of Cards(easy)       
 859. Buddy Strings(easy)    
+    
+Week 13     
+Day 85:     
+734. Sentence Similarity(easy)      
