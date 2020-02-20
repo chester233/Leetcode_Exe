@@ -242,3 +242,4 @@ Day 86:
 Day 87:     
 819. Most Common Word(easy)     
 748. Shortest Completing Word(easy)     
+800. Similar RGB Color(easy)     
