@@ -241,3 +241,4 @@ Day 86:
 830. Positions of Large Groups(easy)    
 Day 87:     
 819. Most Common Word(easy)     
+748. Shortest Completing Word(easy)     
