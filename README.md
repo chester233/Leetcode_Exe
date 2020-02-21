@@ -243,3 +243,5 @@ Day 87:
 819. Most Common Word(easy)     
 748. Shortest Completing Word(easy)     
 800. Similar RGB Color(easy)     
+Day 88:     
+840. Magic Squares In Grid(easy)        
