@@ -247,3 +247,4 @@ Day 88:
 840. Magic Squares In Grid(easy)        
 Day 89:     
 541. Reverse String II(easy)    
+566. Reshape the Matrix(easy)     
