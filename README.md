@@ -254,3 +254,4 @@ Day 90:
 876. Middle of the Linked List(easy)    
 784. Letter Case Permutation(easy)      
 783. Minimum Distance Between BST Nodes(easy)       
+872. Leaf-Similar Trees(easy)   
