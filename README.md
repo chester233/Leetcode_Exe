@@ -257,3 +257,4 @@ Day 90:
 872. Leaf-Similar Trees(easy)   
 Day 91:     
 661. Image Smoother(easy)       
+696. Count Binary Substrings(easy)      
