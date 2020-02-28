@@ -267,3 +267,4 @@ Day 94:
 589. N-ary Tree Preorder Traversal(easy)    
 Day 95:     
 617. Merge Two Binary Trees(easy)   
+633. Sum of Square Numbers(easy)    
