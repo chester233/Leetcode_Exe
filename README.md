@@ -269,3 +269,5 @@ Day 95:
 617. Merge Two Binary Trees(easy)   
 633. Sum of Square Numbers(easy)    
 628. Maximum Product of Three Numbers(easy)     
+Day 96:     
+606. Construct String from Binary Tree(easy)    
