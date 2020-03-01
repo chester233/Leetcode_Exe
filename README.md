@@ -272,3 +272,4 @@ Day 95:
 Day 96:     
 606. Construct String from Binary Tree(easy)    
 598. Range Addition II(easy)    
+717. 1-bit and 2-bit Characters(easy)   
