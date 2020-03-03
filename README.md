@@ -273,3 +273,6 @@ Day 96:
 606. Construct String from Binary Tree(easy)    
 598. Range Addition II(easy)    
 717. 1-bit and 2-bit Characters(easy)   
+Day 97: None    
+Day 98:     
+532. K-diff Pairs in an Array(easy)     
