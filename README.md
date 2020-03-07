@@ -279,5 +279,6 @@ Day 98:
 283. Move Zeroes(easy)      
     
 Week 15     
-Day 99-100: None    
-Day 101:
+Day 99-101: None    
+Day 102:    
+521. Longest Uncommon Subsequence I(easy)   
