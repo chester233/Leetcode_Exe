@@ -285,3 +285,4 @@ Day 103:
 530. Minimum Absolute Difference in BST(easy)   
 Day 104:    
 1305. All Elements in Two Binary Search Trees(medium)   
+1198. Find Smallest Common Element in All Rows(medium)      
