@@ -282,3 +282,4 @@ Week 15
 Day 99-101: None    
 Day 102:    
 521. Longest Uncommon Subsequence I(easy)   
+530. Minimum Absolute Difference in BST(easy)   
