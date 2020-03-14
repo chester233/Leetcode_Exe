@@ -290,4 +290,7 @@ Day 104:
 Week 16     
 Day 105:    
 544. Output Contest Matches(medium)     
-Day 106:    
+Day 106-109: None   
+Day 110:    
+1342. Number of Steps to Reduce a Number to Zero(easy)      
+
