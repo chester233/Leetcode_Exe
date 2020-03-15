@@ -299,3 +299,4 @@ Day 111:
 1317. Convert Integer to the Sum of Two No-Zero Integers(easy)      
 1346. Check If N and Its Double Exist(easy)     
 1351. Count Negative Numbers in a Sorted Matrix(easy)   
+1356. Sort Integers by The Number of 1 Bits(easy)   
