@@ -294,3 +294,5 @@ Day 106-109: None
 Day 110:    
 1342. Number of Steps to Reduce a Number to Zero(easy)      
 1337. The K Weakest Rows in a Matrix(easy)      
+Day 111:    
+1299. Replace Elements with Greatest Element on Right Side(easy)    
