@@ -300,3 +300,5 @@ Day 111:
 1346. Check If N and Its Double Exist(easy)     
 1351. Count Negative Numbers in a Sorted Matrix(easy)   
 1356. Sort Integers by The Number of 1 Bits(easy)   
+Day 112:    
+1365. How Many Numbers Are Smaller Than the Current Number(easy)    
