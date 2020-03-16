@@ -286,10 +286,10 @@ Day 103:
 Day 104:    
 1305. All Elements in Two Binary Search Trees(medium)   
 1198. Find Smallest Common Element in All Rows(medium)      
-    
-Week 16     
 Day 105:    
 544. Output Contest Matches(medium)     
+    
+Week 16         
 Day 106-109: None   
 Day 110:    
 1342. Number of Steps to Reduce a Number to Zero(easy)      
