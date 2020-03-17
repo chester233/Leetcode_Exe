@@ -306,3 +306,4 @@ Day 112:
 Week 17     
 Day 113:    
 1331. Rank Transform of an Array(easy)    
+1380. Lucky Numbers in a Matrix(easy)   
