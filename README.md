@@ -302,3 +302,7 @@ Day 111:
 1356. Sort Integers by The Number of 1 Bits(easy)   
 Day 112:    
 1365. How Many Numbers Are Smaller Than the Current Number(easy)    
+    
+Week 17     
+Day 113:    
+1331. Rank Transform of an Array(easy)    
