@@ -307,3 +307,5 @@ Week 17
 Day 113:    
 1331. Rank Transform of an Array(easy)    
 1380. Lucky Numbers in a Matrix(easy)   
+Day 114:    
+1374. Generate a String With Characters That Have Odd Counts(easy)      
