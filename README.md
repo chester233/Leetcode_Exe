@@ -311,3 +311,4 @@ Day 114:
 1374. Generate a String With Characters That Have Odd Counts(easy)      
 1313. Decompress Run-Length Encoded List(easy)      
 1128. Number of Equivalent Domino Pairs(easy)   
+590. N-ary Tree Postorder Traversal(easy)   
