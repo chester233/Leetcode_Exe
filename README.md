@@ -312,3 +312,5 @@ Day 114:
 1313. Decompress Run-Length Encoded List(easy)      
 1128. Number of Equivalent Domino Pairs(easy)   
 590. N-ary Tree Postorder Traversal(easy)   
+Day 115:    
+671. Second Minimum Node In a Binary Tree(easy)     
