@@ -314,3 +314,8 @@ Day 114:
 590. N-ary Tree Postorder Traversal(easy)   
 Day 115:    
 671. Second Minimum Node In a Binary Tree(easy)     
+Day 116-119: None       
+        
+Week 18     
+Day 120-121: None   
+Day 122:    
