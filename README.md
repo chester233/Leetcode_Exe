@@ -320,4 +320,6 @@ Week 18
 Day 120-121: None   
 Day 122:    
 1029. Two City Scheduling(easy)     
-1276. Number of Burgers with No Waste of Ingredients(easy)      
+1276. Number of Burgers with No Waste of Ingredients(medium)      
+Day 123:    
+1288. Remove Covered Intervals(medium)
