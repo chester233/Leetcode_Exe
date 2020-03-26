@@ -320,3 +320,4 @@ Week 18
 Day 120-121: None   
 Day 122:    
 1029. Two City Scheduling(easy)     
+1276. Number of Burgers with No Waste of Ingredients(easy)      
