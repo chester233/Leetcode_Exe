@@ -326,3 +326,4 @@ Day 123:
 674. Longest Continuous Increasing Subsequence(easy)    
 1015. Smallest Integer Divisible by K(medium)   
 Day 124:    
+1176. Diet Plan Performance(easy)   
