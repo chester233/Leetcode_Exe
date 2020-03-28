@@ -327,3 +327,4 @@ Day 123:
 1015. Smallest Integer Divisible by K(medium)   
 Day 124:    
 1176. Diet Plan Performance(easy)   
+1333. Filter Restaurants by Vegan-Friendly, Price and Distance(medium)      
