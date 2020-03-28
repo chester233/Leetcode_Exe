@@ -329,3 +329,5 @@ Day 124:
 1176. Diet Plan Performance(easy)   
 1333. Filter Restaurants by Vegan-Friendly, Price and Distance(medium)      
 507. Perfect Number(easy)   
+Day 125:    
+501. Find Mode in Binary Search Tree(easy)      
