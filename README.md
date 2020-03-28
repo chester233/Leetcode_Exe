@@ -331,3 +331,4 @@ Day 124:
 507. Perfect Number(easy)   
 Day 125:    
 501. Find Mode in Binary Search Tree(easy)      
+504. Base 7(easy)   
