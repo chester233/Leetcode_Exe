@@ -328,3 +328,4 @@ Day 123:
 Day 124:    
 1176. Diet Plan Performance(easy)   
 1333. Filter Restaurants by Vegan-Friendly, Price and Distance(medium)      
+507. Perfect Number(easy)   
