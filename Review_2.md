@@ -144,48 +144,48 @@
 
 173. 1351 Count Negative Numbers in a Sorted Matrix(easy)       
 
-1356 Sort Integers by The Number of 1 Bits(easy)       
+174. 1356 Sort Integers by The Number of 1 Bits(easy)       
 
-1365 How Many Numbers Are Smaller Than the Current Number(easy)      
+175. 1365 How Many Numbers Are Smaller Than the Current Number(easy)      
 
-1331 Rank Transform of an Array(easy)      
+176. 1331 Rank Transform of an Array(easy)      
 
-1380 Lucky Numbers in a Matrix(easy)     
+177. 1380 Lucky Numbers in a Matrix(easy)     
 
-1374 Generate a String With Characters That Have Odd Counts(easy)      
+178. 1374 Generate a String With Characters That Have Odd Counts(easy)      
 
-1313 Decompress Run-Length Encoded List(easy)      
+179. 1313 Decompress Run-Length Encoded List(easy)      
 
-1128 Number of Equivalent Domino Pairs(easy)     
+180. 1128 Number of Equivalent Domino Pairs(easy)     
 
-590 N-ary Tree Postorder Traversal(easy)     
+181. 590 N-ary Tree Postorder Traversal(easy)     
 
-671 Second Minimum Node In a Binary Tree(easy)     
+182. 671 Second Minimum Node In a Binary Tree(easy)     
 
-1029 Two City Scheduling(easy)     
+183. 1029 Two City Scheduling(easy)     
 
-1276 Number of Burgers with No Waste of Ingredients(medium)      
+184. 1276 Number of Burgers with No Waste of Ingredients(medium)      
 
-1288 Remove Covered Intervals(medium)      
+185. 1288 Remove Covered Intervals(medium)      
 
-674 Longest Continuous Increasing Subsequence(easy)      
+186. 674 Longest Continuous Increasing Subsequence(easy)      
 
-1015 Smallest Integer Divisible by K(medium)       
+187. 1015 Smallest Integer Divisible by K(medium)       
 
-1176 Diet Plan Performance(easy)       
+188. 1176 Diet Plan Performance(easy)       
 
-1333 Filter Restaurants by Vegan-Friendly, Price and Distance(medium)      
+189. 1333 Filter Restaurants by Vegan-Friendly, Price and Distance(medium)      
 
-507 Perfect Number(easy)       
+190. 507 Perfect Number(easy)       
 
-501 Find Mode in Binary Search Tree(easy)        
+191. 501 Find Mode in Binary Search Tree(easy)        
 
-504 Base 7(easy)     
+192. 504 Base 7(easy)     
 
-1338 Reduce Array Size to The Half(medium)       
+193. 1338 Reduce Array Size to The Half(medium)       
 
-1339 Maximum Product of Splitted Binary Tree(medium)     
+194. 1339 Maximum Product of Splitted Binary Tree(medium)     
 
-1395 Count Number of Teams(medium)       
+195. 1395 Count Number of Teams(medium)       
 
-1394 Find Lucky Integer in an Array(easy)      
+196. 1394 Find Lucky Integer in an Array(easy)      
