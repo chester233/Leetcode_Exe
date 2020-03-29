@@ -333,3 +333,5 @@ Day 125:
 501. Find Mode in Binary Search Tree(easy)      
 504. Base 7(easy)   
 1338. Reduce Array Size to The Half(medium)     
+Day 126:    
+1339. Maximum Product of Splitted Binary Tree(medium)   
