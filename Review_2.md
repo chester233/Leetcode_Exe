@@ -58,91 +58,91 @@
 
 130. 1030 Matrix Cells in Distance Order(easy)    
 
-953 Verifying an Alien Dictionary(easy)    
+131. 953 Verifying an Alien Dictionary(easy)    
 
-997 Find the Town Judge(easy)    
+132. 997 Find the Town Judge(easy)    
 
-1033 Moving Stones Until Consecutive(easy)     
+133. 1033 Moving Stones Until Consecutive(easy)     
 
-1022 Sum of Root To Leaf Binary Numbers(easy)      
+134. 1022 Sum of Root To Leaf Binary Numbers(easy)      
 
-914 X of a Kind in a Deck of Cards(easy)     
+135. 914 X of a Kind in a Deck of Cards(easy)     
 
-859 Buddy Strings(easy)      
+136. 859 Buddy Strings(easy)      
 
-734 Sentence Similarity(easy)      
+137. 734 Sentence Similarity(easy)      
 
-830 Positions of Large Groups(easy)      
+138. 830 Positions of Large Groups(easy)      
 
-819 Most Common Word(easy)     
+139. 819 Most Common Word(easy)     
 
-748 Shortest Completing Word(easy)       
+140. 748 Shortest Completing Word(easy)       
 
-800 Similar RGB Color(easy)      
+141. 800 Similar RGB Color(easy)      
 
-840 Magic Squares In Grid(easy)      
+142. 840 Magic Squares In Grid(easy)      
 
-541 Reverse String II(easy)      
+143. 541 Reverse String II(easy)      
 
-566 Reshape the Matrix(easy)     
+144. 566 Reshape the Matrix(easy)     
 
-575 Distribute Candies(easy)     
+145. 575 Distribute Candies(easy)     
 
-645 Set Mismatch(easy)     
+146. 645 Set Mismatch(easy)     
 
-876 Middle of the Linked List(easy)      
+147. 876 Middle of the Linked List(easy)      
 
-784 Letter Case Permutation(easy)      
+148. 784 Letter Case Permutation(easy)      
 
-783 Minimum Distance Between BST Nodes(easy)     
+149. 783 Minimum Distance Between BST Nodes(easy)     
 
-872 Leaf-Similar Trees(easy)     
+150. 872 Leaf-Similar Trees(easy)     
 
-661 Image Smoother(easy)     
+151. 661 Image Smoother(easy)     
 
-696 Count Binary Substrings(easy)      
+152. 696 Count Binary Substrings(easy)      
 
-669 Trim a Binary Search Tree(easy)      
+153. 669 Trim a Binary Search Tree(easy)      
 
-589 N-ary Tree Preorder Traversal(easy)      
+154. 589 N-ary Tree Preorder Traversal(easy)      
 
-617 Merge Two Binary Trees(easy)       
+155. 617 Merge Two Binary Trees(easy)       
 
-633 Sum of Square Numbers(easy)        
+156. 633 Sum of Square Numbers(easy)        
 
-628 Maximum Product of Three Numbers(easy)       
+157. 628 Maximum Product of Three Numbers(easy)       
 
-606 Construct String from Binary Tree(easy)        
+158. 606 Construct String from Binary Tree(easy)        
 
-598 Range Addition II(easy)        
+159. 598 Range Addition II(easy)        
 
-717 1-bit and 2-bit Characters(easy)       
+160. 717 1-bit and 2-bit Characters(easy)       
 
-532 K-diff Pairs in an Array(easy)       
+161. 532 K-diff Pairs in an Array(easy)       
 
-283 Move Zeroes(easy)      
+162. 283 Move Zeroes(easy)      
 
-521 Longest Uncommon Subsequence I(easy)     
+163. 521 Longest Uncommon Subsequence I(easy)     
 
-530 Minimum Absolute Difference in BST(easy)       
+164. 530 Minimum Absolute Difference in BST(easy)       
 
-1305 All Elements in Two Binary Search Trees(medium)     
+165. 1305 All Elements in Two Binary Search Trees(medium)     
 
-1198 Find Smallest Common Element in All Rows(medium)      
+166. 1198 Find Smallest Common Element in All Rows(medium)      
 
-544 Output Contest Matches(medium)       
+167. 544 Output Contest Matches(medium)       
 
-1342 Number of Steps to Reduce a Number to Zero(easy)      
+168. 1342 Number of Steps to Reduce a Number to Zero(easy)      
 
-1337 The K Weakest Rows in a Matrix(easy)      
+169. 1337 The K Weakest Rows in a Matrix(easy)      
 
-1299 Replace Elements with Greatest Element on Right Side(easy)      
+170. 1299 Replace Elements with Greatest Element on Right Side(easy)      
 
-1317 Convert Integer to the Sum of Two No-Zero Integers(easy)      
+171. 1317 Convert Integer to the Sum of Two No-Zero Integers(easy)      
 
-1346 Check If N and Its Double Exist(easy)     
+172. 1346 Check If N and Its Double Exist(easy)     
 
-1351 Count Negative Numbers in a Sorted Matrix(easy)       
+173. 1351 Count Negative Numbers in a Sorted Matrix(easy)       
 
 1356 Sort Integers by The Number of 1 Bits(easy)       
 
