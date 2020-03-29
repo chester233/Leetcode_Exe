@@ -336,3 +336,4 @@ Day 125:
 Day 126:    
 1339. Maximum Product of Splitted Binary Tree(medium)   
 1395. Count Number of Teams(medium)     
+1394. Find Lucky Integer in an Array(easy)      
