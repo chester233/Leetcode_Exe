@@ -342,3 +342,5 @@ Week 19
 Day 127:    
 1272. Remove Interval(medium)   
 1265. Print Immutable Linked List in Reverse(medium)    
+Day 128:    
+1385. Find the Distance Value Between Two Arrays(easy)      
