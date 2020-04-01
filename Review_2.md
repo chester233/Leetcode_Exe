@@ -188,4 +188,12 @@
 
 195. 1395 Count Number of Teams(medium)       
 
-196. 1394 Find Lucky Integer in an Array(easy)      
+196. 1394 Find Lucky Integer in an Array(easy)     
+
+197. 1272 Remove Interval(medium)     
+
+198. 1265 Print Immutable Linked List in Reverse(medium)      
+
+199. 1385 Find the Distance Value Between Two Arrays(easy)      
+
+200. 1360 Number of Days Between Two Dates(easy)    
