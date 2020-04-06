@@ -345,3 +345,6 @@ Day 127:
 Day 128:    
 1385. Find the Distance Value Between Two Arrays(easy)      
 1360. Number of Days Between Two Dates(easy)    
+Day 129-132: None   
+Day 133:    
+1344. Angle Between Hands of a Clock(medium)    
