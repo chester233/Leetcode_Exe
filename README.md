@@ -1,6 +1,5 @@
-## Leetcode_exe    
-## This is daily log.
-Starting from Nov/26/2019.    
+### Leetcode_exe    
+### This is daily log. Starting from Nov/26/2019.    
     
 Week 1   
 Day 1(26/Nov):  
