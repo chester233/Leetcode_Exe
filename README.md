@@ -1,4 +1,5 @@
-# My_leetcode_exe    
+# Leetcode_exe    
+# This is daily log.
 Starting from Nov/26/2019.    
     
 Week 1   
@@ -357,3 +358,6 @@ Day 134:
 Day 135:    
 1329. Sort the Matrix Diagonally(mdeium)    
 811. Subdomain Visit Count(easy)    
+1. Two Sum(easy)    
+7. Reverse Intege(easy)     
+Day 136:    
