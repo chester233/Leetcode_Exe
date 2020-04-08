@@ -356,7 +356,7 @@ Day 134:
 1389. Create Target Array in the Given Order(easy)  
 Day 135:    
 1329. Sort the Matrix Diagonally(mdeium)    
-811. Subdomain Visit Count(easy)    
-1. Two Sum(easy)    
-7. Reverse Intege(easy)     
+811. Subdomain Visit Count(easy)  
+1. Two Sum(easy)  
+7. Reverse Intege(easy)  
 Day 136:    
