@@ -360,3 +360,6 @@ Day 135:
 /1. Two Sum(easy)  
 /7. Reverse Intege(easy)  
 Day 136:    
+/9. Palindrome Number(easy)      
+Day 137:    
+/35. Search Insert Position(easy)
