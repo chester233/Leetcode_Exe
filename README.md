@@ -363,3 +363,7 @@ Day 136:
 /9. Palindrome Number(easy)      
 Day 137:    
 /35. Search Insert Position(easy)
+Day 138: None   
+Day 139:    
+/20. Valid Parentheses(easy)     
+
