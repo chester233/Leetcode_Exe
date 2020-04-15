@@ -371,3 +371,8 @@ Day 140:
 /12. Integer to Roman(medium)     
 /21. Merge Two Sorted Lists(easy)   
 /11. Container With Most Water(medium)    
+    
+Week 21     
+Day 141: None   
+Day 142:    
+/27. Remove Element(easy)    
