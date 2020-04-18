@@ -383,3 +383,5 @@ Day 144:
 /53. Maximum Subarray(easy)      
 Day 145:    
 /58. Length of Last Word(easy)      
+Day 146:    
+/66. Plus One(easy)     
