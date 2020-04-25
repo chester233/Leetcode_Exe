@@ -392,3 +392,6 @@ Day 147:
 Week 22     
 Day 148:    
 /112. Path Sum(easy)    
+Day 149-152: None   
+Day 153:    
+/169. Majority Element(easy)    
