@@ -410,4 +410,5 @@ Day 162-168: None
 Week 25     
 Day 169:    
 /268. Missing Number(easy)  
-
+Day 170:    
+/387. First Unique Character in a String(easy)      
