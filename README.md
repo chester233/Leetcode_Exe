@@ -413,3 +413,5 @@ Day 169:
 Day 170:    
 /387. First Unique Character in a String(easy)      
 /389. Find the Difference(easy)     
+Day 171:    
+/217. Contains Duplicate(easy)      
