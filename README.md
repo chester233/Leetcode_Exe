@@ -415,3 +415,5 @@ Day 170:
 /389. Find the Difference(easy)     
 Day 171:    
 /217. Contains Duplicate(easy)      
+Day 172:    
+/242. Valid Anagram(easy)   
