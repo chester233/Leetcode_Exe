@@ -417,3 +417,4 @@ Day 171:
 /217. Contains Duplicate(easy)      
 Day 172:    
 /242. Valid Anagram(easy)   
+/263. Ugly Number(easy)     
