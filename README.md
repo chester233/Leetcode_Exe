@@ -431,4 +431,6 @@ Week 26
 Day 176:    
 /441. Arranging Coins(easy)      
 /476. Number Complement(easy)    
-Day 177:    
+Day 177: None    
+Day 178:    
+/434. Number of Segments in a String(easy)    
