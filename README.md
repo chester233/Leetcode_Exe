@@ -437,3 +437,5 @@ Day 178:
 /414. Third Maximum Number(easy)    
 Day 179:    
 /492. Construct the Rectangle(easy)     
+Day 180:    
+/485. Max Consecutive Ones(easy)    
