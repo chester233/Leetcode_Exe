@@ -439,3 +439,9 @@ Day 179:
 /492. Construct the Rectangle(easy)     
 Day 180:    
 /485. Max Consecutive Ones(easy)    
+Day 181: None   
+Day 182:    
+/278. First Bad Version(easy)       
+    
+Week 27     
+Day 183:    
