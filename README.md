@@ -450,4 +450,6 @@ Day 183:
 /292. Nim Game(easy)    
 Day 184:    
 /299. Bulls and Cows(easy)    
-/374. Guess Number Higher or Lower(easy)    
+/374. Guess Number Higher or Lower(easy)     
+Day 185:    
+/367. Valid Perfect Square(easy)     
