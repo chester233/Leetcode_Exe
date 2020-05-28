@@ -455,3 +455,4 @@ Day 185:
 /367. Valid Perfect Square(easy)     
 Day 186:    
 /290. Word Pattern(easy)    
+/246. Strobogrammatic Number(easy)      
