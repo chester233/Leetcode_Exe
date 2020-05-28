@@ -453,3 +453,5 @@ Day 184:
 /374. Guess Number Higher or Lower(easy)     
 Day 185:    
 /367. Valid Perfect Square(easy)     
+Day 186:    
+/290. Word Pattern(easy)    
