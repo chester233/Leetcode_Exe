@@ -457,3 +457,5 @@ Day 186:
 /290. Word Pattern(easy)    
 /246. Strobogrammatic Number(easy)      
 /383. Ransom Note(easy)     
+Day 187:    
+/258. Add Digits(easy)      
