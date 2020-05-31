@@ -461,3 +461,5 @@ Day 187:
 /258. Add Digits(easy)      
 Day 188:    
 /270. Closest Binary Search Tree Value(easy)        
+Day 189:    
+/404. Sum of Left Leaves(easy)      
