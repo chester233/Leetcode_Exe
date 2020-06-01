@@ -463,3 +463,7 @@ Day 188:
 /270. Closest Binary Search Tree Value(easy)        
 Day 189:    
 /404. Sum of Left Leaves(easy)      
+/405. Convert a Number to Hexadecimal(easy)     
+     
+Week 28     
+Day 190:    
