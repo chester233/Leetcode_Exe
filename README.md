@@ -472,3 +472,4 @@ Day 191:
 Day 192:    
 /219. Contains Duplicate II(easy)    
 Day 193:    
+/422. Valid Word Square(easy)   
