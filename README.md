@@ -473,3 +473,6 @@ Day 192:
 /219. Contains Duplicate II(easy)    
 Day 193:    
 /422. Valid Word Square(easy)   
+Day 194-195: None   
+Day 196:    
+/88. Merge Sorted Array(easy)    
