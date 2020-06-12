@@ -489,3 +489,4 @@ Day 200:
 /189. Rotate Array(easy)    
 Day 201:    
 /392. Is Subsequence(easy)    
+/118. Pascal's Triangle(easy)    
