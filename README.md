@@ -492,3 +492,5 @@ Day 201:
 /118. Pascal's Triangle(easy)    
 /119. Pascal's Triangle II(easy)     
 Day 202:    
+/121. Best Time to Buy and Sell Stock(easy)     
+Day 202:    
