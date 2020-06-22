@@ -512,3 +512,8 @@ Day 208:
 /453. Minimum Moves to Equal Array Elements(easy)    
 Day 209:    
 /198. House Robber(easy)    
+Day 210:    
+/237. Delete Node in a Linked List(easy)    
+   
+Week 31     
+Day 211:    
