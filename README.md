@@ -519,3 +519,5 @@ Week 31
 Day 211:    
 /234. Palindrome Linked List(easy)   
 /206. Reverse Linked List(easy)     
+Day 212:    
+/482. License Key Formatting(easy)      
