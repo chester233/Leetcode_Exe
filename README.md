@@ -525,3 +525,5 @@ Day 212:
 Day 213:    
 /401. Binary Watch(easy)    
 /447. Number of Boomerangs(easy)    
+Day 214:    
+/38. Count and Say(easy)    
