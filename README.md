@@ -530,3 +530,5 @@ Day 214:
 Day 215:    
 /70. Climbing Stairs(easy)      
 /83. Remove Duplicates from Sorted List(easy)       
+Day 216:    
+/108. Convert Sorted Array to Binary Search Tree(easy)      
