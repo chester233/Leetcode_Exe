@@ -538,3 +538,4 @@ Day 217:
     
 Week 32     
 Day 218:    
+/594. Longest Harmonious Subsequence(easy)      
