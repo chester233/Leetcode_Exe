@@ -540,3 +540,6 @@ Week 32
 Day 218:    
 /594. Longest Harmonious Subsequence(easy)      
 /746. Min Cost Climbing Stairs(easy)    
+Day 219: None    
+Day 220:    
+/78. Subsets(medium)    
