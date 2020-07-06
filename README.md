@@ -548,3 +548,4 @@ Day 223:
 /17. Letter Combinations of a Phone Number(medium)    
 /16. 3Sum Closest(medium)    
 Day 224:     
+/50. Pow(x, n)(medium)    
