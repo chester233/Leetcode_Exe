@@ -549,3 +549,8 @@ Day 223:
 /16. 3Sum Closest(medium)    
 Day 224:     
 /50. Pow(x, n)(medium)    
+     
+Week 33     
+Day 225:     
+/46. Permutations(medium)    
+Day 226:    
