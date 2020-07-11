@@ -560,3 +560,5 @@ Day 227:
 Day 228:    
 /62. Unique Paths(medium)    
 /63. Unique Paths II(medium)     
+Day 229:    
+/22. Generate Parentheses(medium)     
