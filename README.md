@@ -568,3 +568,7 @@ Day 230:
 Day 231:    
 /74. Search a 2D Matrix(medium)     
 /40. Combination Sum II(medium)     
+/64. Minimum Path Sum(medium)     
+    
+Week 34     
+Day 232:    
