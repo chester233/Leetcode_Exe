@@ -585,3 +585,5 @@ Day 235:
 Day 236:    
 /56. Merge Intervals(medium)    
 /60. Permutation Sequence(medium)     
+Day 237:    
+/71. Simplify Path(medium)      
