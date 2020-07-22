@@ -599,3 +599,4 @@ Day 240:
 /144. Binary Tree Preorder Traversal(medium)     
 Day 241:    
 /339. Nested List Weight Sum(easy)      
+/256. Paint House(easy)     
