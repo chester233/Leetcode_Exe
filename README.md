@@ -594,6 +594,8 @@ Day 238:
 Week 35     
 Day 239:    
 /94. Binary Tree Inorder Traversal(medium)      
-102. Binary Tree Level Order Traversal(medium)      
+/102. Binary Tree Level Order Traversal(medium)      
 Day 240:    
-144. Binary Tree Preorder Traversal(medium)     
+/144. Binary Tree Preorder Traversal(medium)     
+Day 241:    
+/339. Nested List Weight Sum(easy)      
