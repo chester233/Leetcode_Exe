@@ -600,3 +600,5 @@ Day 240:
 Day 241:    
 /339. Nested List Weight Sum(easy)      
 /256. Paint House(easy)     
+Day 242:    
+/137. Single Number II(medium)      
