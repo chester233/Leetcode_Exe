@@ -584,7 +584,7 @@ Day 235:
 /86. Partition List(medium)      
 Day 236:    
 /56. Merge Intervals(medium)    
-/60. Permutation Sequence(medium)     
+/60. Permutation Sequence(hard)     
 Day 237:    
 /71. Simplify Path(medium)      
 Day 238:    
