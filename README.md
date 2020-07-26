@@ -607,3 +607,5 @@ Day 243:
 /495. Teemo Attacking(medium)    
 Day 244:    
 /408. Valid Word Abbreviation(easy)     
+Day 245:    
+/235. Lowest Common Ancestor of a Binary Search Tree(easy)      
