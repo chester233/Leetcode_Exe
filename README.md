@@ -609,3 +609,7 @@ Day 244:
 /408. Valid Word Abbreviation(easy)     
 Day 245:    
 /235. Lowest Common Ancestor of a Binary Search Tree(easy)      
+    
+Week 36     
+Day 246:    
+/477. Total Hamming Distance(medium)    
