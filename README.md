@@ -613,3 +613,4 @@ Day 245:
 Week 36     
 Day 246:    
 /477. Total Hamming Distance(medium)    
+/264. Ugly Number II(medium)    
