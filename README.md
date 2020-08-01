@@ -623,3 +623,5 @@ Day 249:
 /462. Minimum Moves to Equal Array Elements II(medium)      
 Day 250:    
 /438. Find All Anagrams in a String(medium)        
+/442. Find All Duplicates in an Array(medium)    
+Day 251:    
