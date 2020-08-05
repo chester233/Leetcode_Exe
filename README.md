@@ -637,3 +637,5 @@ Day 253:
 /419. Battleships in a Board(medium)    
 Day 254:    
 /413. Arithmetic Slices(medium)     
+/402. Remove K Digits(medium)       
+Day 255:    
