@@ -635,3 +635,5 @@ Week 37
 Day 253:    
 /423. Reconstruct Original Digits from English(medium)      
 /419. Battleships in a Board(medium)    
+Day 254:    
+/413. Arithmetic Slices(medium)     
