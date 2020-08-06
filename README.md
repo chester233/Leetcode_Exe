@@ -638,4 +638,6 @@ Day 253:
 Day 254:    
 /413. Arithmetic Slices(medium)     
 /402. Remove K Digits(medium)       
-Day 255:    
+Day 255: None   
+Day 256:    
+/396. Rotate Function(medium)   
