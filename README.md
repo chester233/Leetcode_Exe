@@ -641,3 +641,4 @@ Day 254:
 Day 255: None   
 Day 256:    
 /396. Rotate Function(medium)   
+/394. Decode String(medium)      
