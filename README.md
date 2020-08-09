@@ -642,3 +642,6 @@ Day 255: None
 Day 256:    
 /396. Rotate Function(medium)   
 /394. Decode String(medium)      
+Day 257: None   
+Day 258:    
+/386. Lexicographical Numbers(medium)       
