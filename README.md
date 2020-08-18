@@ -668,3 +668,4 @@ Day 266:
 Week 39     
 Day 267:    
 /320. Generalized Abbreviation(medium)      
+/319. Bulb Switcher(medium)     
