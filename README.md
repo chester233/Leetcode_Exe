@@ -669,3 +669,6 @@ Week 39
 Day 267:    
 /320. Generalized Abbreviation(medium)      
 /319. Bulb Switcher(medium)     
+Day 268: None   
+Day 269:    
+/311. Sparse Matrix Multiplication(medium)     
