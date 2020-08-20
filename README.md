@@ -672,3 +672,5 @@ Day 267:
 Day 268: None   
 Day 269:    
 /311. Sparse Matrix Multiplication(medium)     
+/287. Find the Duplicate Number(medium)     
+Day 270:    
