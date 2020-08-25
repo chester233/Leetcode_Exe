@@ -681,3 +681,7 @@ Day 272:
 /254. Factor Combinations(medium)       
 Day 273:    
 /244. Shortest Word Distance II(medium)     
+     
+Week 40     
+Day 274:     
+/245. Shortest Word Distance III(medium)    
