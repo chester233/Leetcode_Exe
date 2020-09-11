@@ -725,4 +725,6 @@ Day 289:
 /131. Palindrome Partitioning(medium)     
 Day 290:    
 /498. Diagonal Traverse(medium)     
-Day 291:    
+Day 291: None    
+Day 292:    
+/496. Next Greater Element I(easy)      
