@@ -728,3 +728,6 @@ Day 290:
 Day 291: None    
 Day 292:    
 /496. Next Greater Element I(easy)      
+Day 293: None   
+Day 294:    
+/65. Valid Number(hard)     
