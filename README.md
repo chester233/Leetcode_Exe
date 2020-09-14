@@ -731,3 +731,7 @@ Day 292:
 Day 293: None   
 Day 294:    
 /65. Valid Number(hard)     
+     
+Week 43     
+Day 295:    
+680. Valid Palindrome II(easy)      
