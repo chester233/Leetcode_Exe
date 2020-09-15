@@ -734,4 +734,6 @@ Day 294:
      
 Week 43     
 Day 295:    
-680. Valid Palindrome II(easy)      
+/680. Valid Palindrome II(easy)      
+Day 296:    
+/560. Subarray Sum Equals K(medium)     
