@@ -751,3 +751,11 @@ Day 303:
 /187. Repeated DNA Sequences(medium)    
 Day 304:    
 /130. Surrounded Regions(medium)    
+Day 305-308: None       
+        
+Week 45     
+Day 309-315: None     
+    
+Week 46:    
+Day 316: None   
+Day 317:    
